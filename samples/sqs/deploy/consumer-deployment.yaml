@@ -15,4 +15,4 @@ spec:
     spec:
       containers:
       - name: sqs-consumer
-        image: chankh/sqs-consumer-sample
+        image: pio2pio/sqs-consumer-sample

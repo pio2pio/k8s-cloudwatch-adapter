@@ -9,7 +9,7 @@ import (
 
 	"github.com/aws/aws-sdk-go/aws/endpoints"
 
-	"github.com/awslabs/k8s-cloudwatch-adapter/pkg/apis/metrics/v1alpha1"
+	"github.com/pio2pio/k8s-cloudwatch-adapter/pkg/apis/metrics/v1alpha1"
 
 	"github.com/aws/aws-sdk-go/aws"
 	"github.com/aws/aws-sdk-go/aws/session"

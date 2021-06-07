@@ -1,4 +1,4 @@
-module github.com/awslabs/k8s-cloudwatch-adapter
+module github.com/pio2pio/k8s-cloudwatch-adapter
 
 go 1.14
 
